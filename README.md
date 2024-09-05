@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @namle6
-- 👀 I’m interested in web development and embedded software 
-- 🌱 I’m currently learning front-end 
+- 👀 I’m interested in web engineering and AI
+- 🌱 I’m currently learning full-stack
 - 💞️ I’m looking to collaborate on a side project
 - 📫 How to reach me email: namle.p6@gmail.com
 
-- ⚡ Fun fact: imo i'm a boring person
+- ⚡ Fun fact: I can eat 10 eggs a time
 
 <!---
 namle6/namle6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
