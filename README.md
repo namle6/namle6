@@ -1,7 +1,7 @@
 # Hi there! I'm Nam Le 👋
 
 ## 🚀 About Me
-I'm a passionate Software Developer specializing in web engineering and AI, currently pursuing an Associate of Science in Computer Science at Houston Community College. I love building innovative solutions that combine cutting-edge technologies.
+I'm a passionate Software Developer specializing in full-stack and cloud, currently in my gap year. I will attend University of Houston in the Fall 2025. I love building innovative solutions that combine cutting-edge technologies.
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -18,8 +18,7 @@ I'm a passionate Software Developer specializing in web engineering and AI, curr
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=python)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -30,18 +29,13 @@ I'm a passionate Software Developer specializing in web engineering and AI, curr
 
 ## 🌟 Featured Projects
 
-### 1. Private VinaAlexa
-- **Technologies**: Python, Whisper, LangChain, Llama 3.1, PyTorch
-- Fine-tuned OpenAI Whisper model for Vietnamese language recognition
-- Implemented generative AI responses with Meta Llama 3.1
-- Achieved 9% reduction in Word Error Rate
 
-### 2. Food Watchers (IoT Project)
+### 1. Food Watchers (IoT Project)
 - **Technologies**: Raspberry Pi, Python, AWS (S3, Rekognition, Lambda, SNS)
 - Developed an intelligent food monitoring system
 - Integrated AI image analysis with automated notifications
 
-### 3. Your Universities
+### 2. Your Universities
 - **Technologies**: TypeScript, React, PostgreSQL, AWS EC2
 - Full-stack web application for managing university applications
 - Created a scalable and responsive user experience
@@ -57,11 +51,15 @@ I'm a passionate Software Developer specializing in web engineering and AI, curr
 - 🐱 GitHub: [github.com/namle6](https://github.com/namle6)
 
 ## 🎓 Education
+Bachelor of Science in Computer Science | University of Houston
 Associate of Science in Computer Science | Houston Community College
+
 
 ## 🌱 Currently Learning
 - Full-stack Development
-- Advanced AI and Machine Learning Techniques
+= Cloud
+- DevOps
+- Data
 
 
 ---
