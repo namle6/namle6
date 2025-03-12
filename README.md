@@ -57,8 +57,9 @@ Associate of Science in Computer Science | Houston Community College
 
 ## 🌱 Currently Learning
 - Full-stack Development
-= Cloud
+- Cloud
 - DevOps
+- MLOps
 - Data
 
 
