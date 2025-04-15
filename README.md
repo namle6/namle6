@@ -16,7 +16,6 @@ I'm a passionate Software Developer specializing in full-stack and cloud, curren
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 
 
